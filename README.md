@@ -1,3 +1,5 @@
+# EDIT: Raphael Caloz
+
 # IFT 3710/6759 - Projets (avancés) en apprentissage automatique
 ## Git tutorial
 
