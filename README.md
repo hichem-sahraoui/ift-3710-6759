@@ -24,9 +24,8 @@ and GitHub username to the list (or anything else if you do not want to add your
 
 ## Intro to Markdown
 
-This page is written with [Markdown](https://en.wikipedia.org/wiki/Markdown). Markdwon is a _markup language_, which means that it is a system for writing text alongside other information which is readable by a computer. Other markup languages are [HTML](https://en.wikipedia.org/wiki/HTML) and [XML](https://en.wikipedia.org/wiki/Extensible_Markup_Language). However, Markdown is _lightweight_ which means that the annotations are fairly simple and the overall result is easily readable. 
 
-For example, you can easily write text **in bold** by enclosing the piece of text with a pair of asterisks (`**`). _Italics_ is made signed with enclosing underscores (`_`). And of course you can combine _**bold and italics**_---guess how? It's also possible to do ~~this kind of stuff~~. By the way, since a couple of years ago, Slack, Whatsapp and Telegram, and other messaging apps, also support this kind of markup annotations, as you may know. 
+For example, you can easily write text **in bold** by enclosing the piece of text with a pair of asterisks (`**`). _Italics_ is made signed with enclosing underscores (`_`). And of course you can combine _**bold and italics**_---guess how? It's also possible to do ~~this kind of stuff~~. By the way, since a couple of years ago, Slack, Whatsapp and Telegram, and other messaging apps, also support this kind of markup annotations, as you may know.
 
 Creating hyperlinks is also really easy. Here's [one link to a pretty random website](http://drawing.garden/). To create a hyperlink, you enclose the text of the link with square brackets, [like this], immediately followed by the actual URL enclosed with parentheses, that is (https://alexhernandezgarcia.github.io/teaching/mlprojects/).
 
@@ -96,4 +95,3 @@ Maybe you have noticed that this page is organised in headings at different leve
 ### And more
 
 Check [this syntax guide](https://www.markdownguide.org/basic-syntax/) for how to do other things, and try some of it right here!
-
