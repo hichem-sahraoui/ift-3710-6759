@@ -24,6 +24,7 @@ and GitHub username to the list (or anything else if you do not want to add your
 * Krishna Maneesha Dendukur, KrishnaManeeshaDendukur
 * Evelin Fonseca Cruz, eblyn
 - Nam Vu, namvux1404
+* Rose Guay Hottin, RoseGH20
 
 ## Intro to Markdown
 
