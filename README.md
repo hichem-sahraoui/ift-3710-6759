@@ -1,12 +1,10 @@
-James Tsui
- IFT 3710/6759 - Projets (avancés) en apprentissage automatique
+# IFT 3710/6759 - Projets (avancés) en apprentissage automatique
 ## Git tutorial
 
 A dummy repository for educational purposes
 
 ## A playground for you to play
 
-Yassine 
 and GitHub username to the list (or anything else if you do not want to add your personal information):
 
 * Alex Hernandez-Garcia, alexhernandezgarcia
@@ -17,6 +15,8 @@ and GitHub username to the list (or anything else if you do not want to add your
 * Charmi Chokshi, charmichokshi
 * Hemanth
 * researchofhemanth
+* James Tsui
+* Yassine 
 
 ## Intro to Markdown
 
