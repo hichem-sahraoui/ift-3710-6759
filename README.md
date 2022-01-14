@@ -7,7 +7,7 @@ A dummy repository for educational purposes
 
 Add your name and GitHub username to the list (or anything else if you do not want to add your personal information):
 
-* Alex Hernandez-Garcia, alexhernandezgarcia
+* Evelin Fonseca Cruz, eblyn
 * Your Name, yourgithubusername
 
 ## Intro to Markdown
