@@ -10,11 +10,12 @@ Yassine
 and GitHub username to the list (or anything else if you do not want to add your personal information):
 
 * Alex Hernandez-Garcia, alexhernandezgarcia
+* Mathieu Lamarche, malaml
 * Vamsikrishna Chemudupati, vamsikrish96
 * Qilin Wang, qilinwang
 * Charmi Chokshi, charmichokshi
-Hemanth
-researchofhemanth
+* Hemanth
+* researchofhemanth
 
 ## Intro to Markdown
 
