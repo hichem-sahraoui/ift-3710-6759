@@ -10,6 +10,7 @@ Add your name and GitHub username to the list (or anything else if you do not wa
 * Alex Hernandez-Garcia, alexhernandezgarcia
 * Qilin Wang, qilinwang
 * Charmi Chokshi, charmichokshi
+* Benjamin Bourassa, benjy765
 
 ## Intro to Markdown
 
