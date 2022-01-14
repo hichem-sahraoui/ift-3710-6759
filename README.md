@@ -29,7 +29,6 @@ and GitHub username to the list (or anything else if you do not want to add your
 ## Intro to Markdown
 
 This page is written with [Markdown](https://en.wikipedia.org/wiki/Markdown). Markdwon is a _markup language_, which means that it is a system for writing text alongside other information which is readable by a computer. Other markup languages are [HTML](https://en.wikipedia.org/wiki/HTML) and [XML](https://en.wikipedia.org/wiki/Extensible_Markup_Language). However, Markdown is _lightweight_ which means that the annotations are fairly simple and the overall result is easily readable.
->>>>>>> a7655fd426fb5c2771712b66245fa70ad0ec0a1e
 
 For example, you can easily write text **in bold** by enclosing the piece of text with a pair of asterisks (`**`). _Italics_ is made signed with enclosing underscores (`_`). And of course you can combine _**bold and italics**_---guess how? It's also possible to do ~~this kind of stuff~~. By the way, since a couple of years ago, Slack, Whatsapp and Telegram, and other messaging apps, also support this kind of markup annotations, as you may know.
 
