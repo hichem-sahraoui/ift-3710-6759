@@ -21,6 +21,7 @@ and GitHub username to the list (or anything else if you do not want to add your
 * VL - New
 * Jizhou Wang, Jawing
 * Krishna Maneesha Dendukur, KrishnaManeeshaDendukur
+* Evelin Fonseca Cruz, eblyn
 
 ## Intro to Markdown
 
