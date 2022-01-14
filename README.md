@@ -19,6 +19,7 @@ and GitHub username to the list (or anything else if you do not want to add your
 * Yassine 
 * Vijaya Lakshmi Kuruba, vijayakuruba
 * VL - New
+* Jizhou Wang, Jawing
 
 ## Intro to Markdown
 
