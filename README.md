@@ -1,4 +1,5 @@
 # IFT 3710/6759 - Projets (avancés) en apprentissage automatique
+
 ## Git tutorial
 
 A dummy repository for educational purposes
@@ -7,14 +8,15 @@ A dummy repository for educational purposes
 
 Add your name and GitHub username to the list (or anything else if you do not want to add your personal information):
 
-* Alex Hernandez-Garcia, alexhernandezgarcia
-* Your Name, yourgithubusername
+- Alex Hernandez-Garcia, alexhernandezgarcia
+- Your Name, yourgithubusername
+- Nam Vu, namvux1404
 
 ## Intro to Markdown
 
-This page is written with [Markdown](https://en.wikipedia.org/wiki/Markdown). Markdwon is a _markup language_, which means that it is a system for writing text alongside other information which is readable by a computer. Other markup languages are [HTML](https://en.wikipedia.org/wiki/HTML) and [XML](https://en.wikipedia.org/wiki/Extensible_Markup_Language). However, Markdown is _lightweight_ which means that the annotations are fairly simple and the overall result is easily readable. 
+This page is written with [Markdown](https://en.wikipedia.org/wiki/Markdown). Markdwon is a _markup language_, which means that it is a system for writing text alongside other information which is readable by a computer. Other markup languages are [HTML](https://en.wikipedia.org/wiki/HTML) and [XML](https://en.wikipedia.org/wiki/Extensible_Markup_Language). However, Markdown is _lightweight_ which means that the annotations are fairly simple and the overall result is easily readable.
 
-For example, you can easily write text **in bold** by enclosing the piece of text with a pair of asterisks (`**`). _Italics_ is made signed with enclosing underscores (`_`). And of course you can combine _**bold and italics**_---guess how? It's also possible to do ~~this kind of stuff~~. By the way, since a couple of years ago, Slack, Whatsapp and Telegram, and other messaging apps, also support this kind of markup annotations, as you may know. 
+For example, you can easily write text **in bold** by enclosing the piece of text with a pair of asterisks (`**`). _Italics_ is made signed with enclosing underscores (`_`). And of course you can combine _**bold and italics**_---guess how? It's also possible to do ~~this kind of stuff~~. By the way, since a couple of years ago, Slack, Whatsapp and Telegram, and other messaging apps, also support this kind of markup annotations, as you may know.
 
 Creating hyperlinks is also really easy. Here's [one link to a pretty random website](http://drawing.garden/). To create a hyperlink, you enclose the text of the link with square brackets, [like this], immediately followed by the actual URL enclosed with parentheses, that is (https://alexhernandezgarcia.github.io/teaching/mlprojects/).
 
@@ -42,32 +44,32 @@ This is, of course, not all Markdown can do! There are many more formatting opti
 
 Unordered lists can be built using asterisks (`*`), dashes (`-`) or plus signs (`+`). And indentation is supported to create different levels:
 
-* Brain
-    * Visual cortex
-        * V1
-        * V2
-        * V4
-    * Auditory cortex
-        * A1
-        * A2
-        * A3
-* Artificial neural networks
-    * Convolutional layers
-    * Recurrent layers
+- Brain
+  - Visual cortex
+    - V1
+    - V2
+    - V4
+  - Auditory cortex
+    - A1
+    - A2
+    - A3
+- Artificial neural networks
+  - Convolutional layers
+  - Recurrent layers
 
 #### Ordered lists
 
 Guess how you can create ordered lists?
 
 1. Un
-    1. Eins
-    2. Zwei
-    3. Drei
+   1. Eins
+   2. Zwei
+   3. Drei
 2. Deux
 3. Trois
-    1. Uno
-    2. Dos
-    3. Tres
+   1. Uno
+   2. Dos
+   3. Tres
 
 ### Horizontal rules
 
@@ -84,4 +86,3 @@ Maybe you have noticed that this page is organised in headings at different leve
 ### And more
 
 Check [this syntax guide](https://www.markdownguide.org/basic-syntax/) for how to do other things, and try some of it right here!
-
