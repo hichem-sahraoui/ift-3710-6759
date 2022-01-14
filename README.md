@@ -9,6 +9,7 @@ Add your name and GitHub username to the list (or anything else if you do not wa
 
 * Alex Hernandez-Garcia, alexhernandezgarcia
 * Vijaya Lakshmi Kuruba, vijayakuruba
+* VL - New
 
 ## Intro to Markdown
 
