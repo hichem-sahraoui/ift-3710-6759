@@ -31,6 +31,7 @@ Add your name and GitHub username to the list (or anything else if you do not wa
 * Benjamin Bourassa, benjy765
 * Ronnie Liu, XinyuR1
 * Feature A, Test
+* Olivier Ethier
 
 ## Intro to Markdown
 
