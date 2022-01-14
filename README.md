@@ -9,6 +9,7 @@ Add your name and GitHub username to the list (or anything else if you do not wa
 
 * Alex Hernandez-Garcia, alexhernandezgarcia
 * Ronnie Liu, XinyuR1
+* Feature A, Test
 
 ## Intro to Markdown
 
