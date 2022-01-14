@@ -6,7 +6,7 @@ A dummy repository for educational purposes
 
 ## A playground for you to play
 
-and GitHub username to the list (or anything else if you do not want to add your personal information):
+Add your name and GitHub username to the list (or anything else if you do not want to add your personal information):
 
 * Alex Hernandez-Garcia, alexhernandezgarcia
 * Selim
