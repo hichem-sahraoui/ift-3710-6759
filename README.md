@@ -24,7 +24,7 @@ Add your name and GitHub username to the list (or anything else if you do not wa
 * Jizhou Wang, Jawing
 * Krishna Maneesha Dendukur, KrishnaManeeshaDendukur
 * Evelin Fonseca Cruz, eblyn
-- Nam Vu, namvux1404
+* Nam Vu, namvux1404
 * Rose Guay Hottin, RoseGH20
 * Benjamin Bourassa, benjy765
 * Ronnie Liu, XinyuR1
