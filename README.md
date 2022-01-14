@@ -1,6 +1,6 @@
 # IFT 3710/6759 - Projets (avancés) en apprentissage automatique
 ## Git tutorial
-
+TEST
 A dummy repository for educational purposes
 
 ## A playground for you to play
