@@ -1,7 +1,7 @@
 # IFT 3710/6759 - Projets (avancés) en apprentissage automatique
 
 ## Git tutorial
-TEST
+
 A dummy repository for educational purposes
 
 ## A playground for you to play
@@ -27,6 +27,8 @@ and GitHub username to the list (or anything else if you do not want to add your
 - Nam Vu, namvux1404
 * Rose Guay Hottin, RoseGH20
 * Benjamin Bourassa, benjy765
+* Ronnie Liu, XinyuR1
+* Feature A, Test
 
 ## Intro to Markdown
 
