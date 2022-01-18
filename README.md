@@ -31,6 +31,7 @@ Add your name and GitHub username to the list (or anything else if you do not wa
 * Feature A, Test
 * Olivier Ethier
 * Marcos Souto, msoutojr
+* Hichem Sahraoui, hichem-sahraoui
 
 ## Intro to Markdown
 
